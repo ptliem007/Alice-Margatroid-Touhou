@@ -14,7 +14,8 @@
 					"+[25]% Strength in [Fort]",
 					"+[25]% Strength in [Citadel]",
 					"+[20]% Strength in [Doll lumber house]",
-					"[+10] HP when healing in [Doll lumber house] tiles"],
+					"[+5] HP when healing in [Doll lumber house] tiles",
+					"[+9] HP when healing"],
 	},
 	{
 		"name": "Round Table Doll",
