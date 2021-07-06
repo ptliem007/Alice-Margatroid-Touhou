@@ -1,0 +1,38 @@
+[	
+	{
+		"name": "Doll Workshop",
+		"replaces": "Workshop",
+		"uniqueTo": "The Unified Doll Front",
+		"maintenance": 2,
+		"production": 3,
+		"percentStatBonus": {"production": 15},
+		"hurryCostModifier": 25,
+		"uniques": ["+[5]% Production when constructing [Buildings] [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Doll-Part Arsenal",
+		"replaces": "Arsenal",
+		"uniqueTo": "The Unified Doll Front",
+		"cost": 300,
+		"cityStrength": 10,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"uniques": ["All newly-trained [Military] units in this city receive the [Doll Gunpowder] promotion"],
+		"requiredTech": "Gunpowder"
+	},
+	{
+		"name": "Dolls of The Round Table",
+		"uniqueTo": "The Unified Doll Front",
+		"isNationalWonder": true,
+		"cost": 500,
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["All newly-trained [Land] units in this city receive the [Round Table Doll] promotion",
+					"[2] free [Longswordsman] units appear", "[2] free [Pikeman] units appear", "[2] free [Crossbowman] units appear",
+					"Free [Great General] appears"],
+		"requiredTech": "Chivalry"
+	},
+]

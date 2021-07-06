@@ -1,0 +1,36 @@
+[
+	{
+		"name": "The Unified Doll Front",
+		"leaderName": "Alice Margatroid",
+		"adjective": ["Doll"],
+		"startBias": ["Forest"],
+		"startIntroPart1": "You, Alice Margatroid, came upon a great discovery many years ago. Through tireless research, you had finally constructed your crowning achievement, the sentient doll.
+							As you showed this feat to the rest of the world, they recoiled and struck, believing them to be monsters. Angry and distraught, you gathered your creations and hid them where they would be safe and protected.
+							Now, the time has come for you and your children to rise up to create a world where all souls, whether they be youkai, human, or doll, can live in peace and harmony.",
+		"startIntroPart2": "The game has begun! Yukari has started yet another one of her many games and has invited all in Gensokyo to join in the quest for glory and prestige.
+							Joining is simple, applicants create their own nation by filling out their form and posting it on their front door/porch/hill/cave/tree.  The purpose for this game is again, unknown, but who cares? The prize for winning this competition of strategy, wit, and leadership is one favor from Yukari herself!  With that incentive, it seems few will be left out of the game.
+							The Doll Front was a movement created by Alice Margatroid, in slight collaboration with Medicine Melancholy, to further the freedom of sentient dolls.  Their goal is to change the how the world views creation of the dolls, making sure that dolls will never again be attacked or segregated from society.",
+		"declaringWar": "We will see you as the one who stands in our way.  And we will not hesitate to remove you from our path.",
+		"attacked": "Your little army is nothing compared to my forces.",
+		"defeated": "Alas, it is too late for me to complete the perfect doll. I have failed. Medicine! It is time for you to raise your own banner!",
+		"introduction": "Hello. My dolls and I are pleased to meet you.",
+		"neutralHello": "Greetings.  Would you like some tea?  A doll will be coming by with a fresh pot.",
+		"hateHello": "Great, it is you again.",
+		"tradeRequest": "We would like to trade with you.",
+		"outerColor": [100,100,185],
+		"innerColor": [250,180,210],
+		"uniqueName": "War Command - Doll's War - Doll Judgement",
+		"uniqueText": "A 75% Production bonus to all land units.  Land units suffer various Strength penalties, but gain a bonus in Forest and Jungle terrain (except Armor units). +1 Gold from every Lumber mill. -1 Gold from every Doll lumber house but gain +1 Food bonus. And finally, home of Alice have 1 more production.",
+		"uniques" : ["+[75]% Production when constructing [Land] units [in all cities]",
+					 "[Scout] units gain the [Doll Construct] promotion",
+					 "[Melee] units gain the [Doll Construct] promotion",
+					 "[Ranged] units gain the [Doll Construct] promotion",
+					 "[Siege] units gain the [Doll Construct] promotion",
+					 "[Mounted] units gain the [Doll Construct] promotion",
+					 "[+1 Food, -1 Gold] from every [Doll lumber house]",
+					 "[+1 Gold] from every [Lumber mill]",
+					 "[+1 Production] [in capital]"],
+		"cities": ["Alice's Home", "Nameless Hill", "Valley of Deathly Flowers", "House of Hearts", "Wonderland", "House of Clubs", "The Realm of Imagination", "Pandæmonium", "Looking-Glass Land", "Ruins of Vina",
+					"House of Spades", "Makai City", "A Page of the Grimoire", "The City of Dolls", "House of Diamonds", "House of Cards", "PC-98 Alice's Lair", "The Rainbow-Colored House", "World Famous Mr. Alice's House", "The Precious Thing"]
+	},
+]
