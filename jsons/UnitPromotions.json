@@ -7,7 +7,6 @@
 					"+[10]% Strength in [Forest]", "+[10]% Strength in [Jungle]",
 					"+[40]% Strength in [Doll lumber house]",
 					"[+7] HP when healing in [Doll lumber house] tiles"],
-		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged"],
 	},
 	{
 		"name": "Doll Gunpowder",
